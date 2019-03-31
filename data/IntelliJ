@@ -1,0 +1,31 @@
+# IntelliJ IDEA
+### edit
+- Alt + enter: 智能提示
+- Ctrl + Enter: generate
+- Cmd + r : replace;<vim :s>
+- Cmd + f: find;<vim />
+- Ctrl + shif + F: find in path;
+- Ctrl + shift + R: replace in path;
+- Cmd + /:注释;
+- Cmd + shift + u: 大小写切换;
+### code
+- cmd + o: show all can override methods ;
+- cmd + i:  show all can implements methods;
+- cmd + alt + l: 格式化;
+- cmd + alt + o: auto import
+- cmd+j:查看可用 live templates;
+- cmd+e: recent file;
+### Refactor
+- cmd + alt + V: 提取变量;
+
+
+### Review
+- ctrl + shift + f: 全局搜索;
+- cmd+alt+b: 跳转实现类
+- cmd+7:类结构
+- cmd+p: 显示当前方法的参数信息
+- ctrl+j:查看 javadoc 注释;
+- cmd + u: super method;
+- cmd + b; declaration(引用);
+- cmd + alt + b: implement(s);
+- cmd + n: class;
