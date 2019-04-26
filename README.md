@@ -4,5 +4,5 @@
 # 使用
 执行命令
 ```
-python [下载目录]/about/about.py
+python {下载目录}/about/about.py
 ```
